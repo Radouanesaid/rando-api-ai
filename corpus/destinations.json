@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mont-saint-michel-avr-2026",
+    "type": "destination",
+    "text": "Mont Saint-Michel (Normandie), avril 2026. Week-end de 2 jours, niveau moyen, 35 km. Week-end exceptionnel au Mont-Saint-Michel. Traversée des grèves à marée basse, visite de l'abbaye et détente en bord de mer."
+  },
+  {
+    "id": "concert-mars-2026",
+    "type": "destination",
+    "text": "Concert Fehd Benchemsi (Paris), mars 2026. Soirée d'1 soir, niveau facile. Soirée concert communauté — une façon différente de se retrouver hors des sentiers."
+  },
+  {
+    "id": "restaurant-balade-fev-2026",
+    "type": "destination",
+    "text": "Restaurant + Balade (Paris), février 2026. Sortie de 3h, niveau facile, 4 km. Combo balade + repas — une formule qui réunit tout le monde. Bonne humeur garantie."
+  },
+  {
+    "id": "restaurant-jan-2026",
+    "type": "destination",
+    "text": "Soirée Restaurant (Paris), janvier 2026. Sortie de 2h, niveau facile. Premier rassemblement de l'année pour bien démarrer 2026 ensemble."
+  },
+  {
+    "id": "ciotat-dec-2025",
+    "type": "destination",
+    "text": "La Ciotat (Provence), décembre 2025. Week-end de 2 jours, niveau facile, 8 km. Escapade hivernale sur la Côte d'Azur. Calanques, soleil et mer turquoise même en décembre."
+  },
+  {
+    "id": "rando-fontainebleau-nov-2025",
+    "type": "destination",
+    "text": "Rando Fontainebleau (Île-de-France), novembre 2025. Sortie de 4h, niveau moyen, 16 km. Les rochers de Fontainebleau en automne. Feuillage coloré, sentiers balisés, pique-nique dans la forêt."
+  },
+  {
+    "id": "accrobranche-oct-2025",
+    "type": "destination",
+    "text": "Accrobranche (Île-de-France), octobre 2025. Sortie de 3h, niveau moyen. Sensations fortes en forêt ! Tyroliennes, ponts de singe et fun garanti pour toute la communauté."
+  },
+  {
+    "id": "balade-velo-sept-2025",
+    "type": "destination",
+    "text": "Balade à vélo (Paris & Banlieue), septembre 2025. Sortie de 2h, niveau facile, 22 km. Balade vélo le long des berges de Seine. Piste cyclable, pause guinguette et bonne ambiance."
+  },
+  {
+    "id": "etretat-aout-2025",
+    "type": "destination",
+    "text": "Étretat (Normandie), août 2025. Sortie d'1 jour, niveau facile, 6 km. Les falaises d'Étretat — un classique absolu. Sentier des douaniers, arches naturelles et panoramas à couper le souffle."
+  }
+]
